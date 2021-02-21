@@ -1,0 +1,13 @@
+.starter {
+  color: blue;
+}
+
+.title-border {
+  margin: 2vw auto;
+  border-bottom: 1px solid gray;
+}
+
+.tags-box {
+  display: flex;
+  margin-top: 1vw;
+}
